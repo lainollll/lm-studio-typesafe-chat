@@ -1,0 +1,11 @@
+.venv-chatterbox/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.log
